@@ -1,17 +1,4 @@
-Sai Venkata Pavan Kumar, Vinnakota
-
 project: acme Search
-
-project structure:
-
-acme-search/public : public assests
-acme-search/public/data-sources: json files
-acme-search/src/application: acme search application
-acme-search/src/application/components: react components
-acme-search/src/application/components/tests: basic tests
-acme-search/src/application/css: css files
-acme-search/src/application/resources: other resources
-
 
 How to Run:
 
