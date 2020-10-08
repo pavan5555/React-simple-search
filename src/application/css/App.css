@@ -1,0 +1,101 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+::-webkit-scrollbar {
+  width: 5px;               /* width of the entire scrollbar */
+}
+::-webkit-scrollbar-track {
+  background: transparent;        /* color of the tracking area */
+}
+::-webkit-scrollbar-thumb {
+  background-color: gray;    /* color of the scroll thumb */
+  border-radius: 20px;       /* roundness of the scroll thumb */
+  border: 1px solid transparent;  /* creates padding around scroll thumb */
+}
+
+.ctname{
+  font-size: 20px;
+}
+
+ .ctlstcnt{
+  font-size: 13px;
+  float: left;
+}
+
+.cltitle{
+  font-size: 20px;
+}
+
+.lstpadder{
+  margin-top: 20px;
+}
+
+.icstyle{
+  font-size: 40PX;
+}
+
+.atur{
+  font-weight: bold;
+}
+
+.tsmpt{
+  font-size: 12px;
+}
+
+.gpullr{
+  margin-left: -10px;
+}
+
+.twteles{
+  font-size: 14px;
+}
+
+.emptctr{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+
+.emptmsgdis{
+  font-size: 15px;
+  opacity: 0.6;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

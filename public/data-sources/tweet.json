@@ -1,0 +1,36 @@
+{
+    "tweet": [
+      {
+        "id":"1478941",
+        "user": "@acmecorp",
+        "account": "Acme",
+        "message": "We're hiring in Boston!",
+        "date": "2019-02-29",
+        "time": "1m",
+        "comments": "1.2k",
+        "likes": "4.2k",
+        "retweets": "10k",
+        "matching_terms": [
+          "acme",
+          "hiring",
+          "boston"
+        ]
+      },
+      {
+        "id":"1478947",
+        "user": "@acmecorp",
+        "account": "Acme",
+        "message": "We're no longer hiring in Timbuktu",
+        "date": "2019-02-27",
+        "time": "2h",
+        "comments": "5k",
+        "likes": "7.5k",
+        "retweets": "15k",
+        "matching_terms": [
+          "acme",
+          "hiring",
+          "timbuktu"
+        ]
+      }
+    ]
+  }
